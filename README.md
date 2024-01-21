@@ -64,7 +64,7 @@ I hope to elarn more about Javacript Form Validation and also Regular Expression
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@@JGedd](https://www.frontendmentor.io/profile/JGedd)
 
 ## Acknowledgments
 
