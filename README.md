@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-Fh-VK6iXH7)
+- Live Site URL: (https://ephemeral-babka-11ee65.netlify.app/)
 
 ## My process
 
