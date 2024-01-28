@@ -55,7 +55,7 @@ This Challenge allowed me to learn basic Javascript Form Validation
 
 ### Continued development
 
-I hope to elarn more about Javacript Form Validation and also Regular Expression
+I hope to learn more about Javacript Form Validation and also Regular Expression
 
 ### Useful resources
 
